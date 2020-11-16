@@ -3,7 +3,7 @@
  * Nextjs Crash Course with Fauna, Tailwind CSS, React Hook Form, and SWR
  * YouTube: https://youtu.be/1GpbdX8aJCU
  */
-import '../styles/app.css'
+import '../styles/tailwind.css'
 
 function MyApp({ Component, pageProps }) {
   return (
